@@ -8,3 +8,6 @@
 - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - **GitHub:** [github.com/your-username](https://github.com/your-username)
 - **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+##  Summary
+
+I’m a problem-solving pro with a knack for staying organized and streamlining processes. With a science degree and a passion for learning, I’m always eager to pick up new skills and technologies—faster than a coffee addict finds their next cup! I thrive on delivering results that impress and bringing effective communication to every role. As a lifetime learner, I’m committed to evolving and exceeding expectations wherever I go.
